@@ -1,0 +1,8 @@
+Present Students Name are:
+fahad
+shasta
+aasharib
+
+Total Present: 3
+Total Absent: 5
+Total Students: 8

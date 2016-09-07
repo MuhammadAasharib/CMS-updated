@@ -1,0 +1,11 @@
+Class Management System
+
+By:
+
+Muhammad Aasharib Nawshad 	(120052)
+&
+Muhammad Ehsan Ul Haq		(125034)
+
+how to run it???
+
+just extract the rar file and open the solution folder and compile it.
